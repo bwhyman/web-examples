@@ -14,20 +14,20 @@
 
 ### Seeds
 
-| Name     | Repos                                  |
-| -------- | -------------------------------------- |
-| BO       | https://github.com/bwhyman             |
-| Shaolong | https://github.com/zsliszhangxiaochong |
-| Jinxin   | https://github.com/LLL-zqvr/           |
-| Qiuyue   | https://github.com/yue24413            |
-| Wenli    | https://github.com/DTBtrigger          |
-| Kaidi    | https://github.com/11hkd               |
-| Mingyue  | https://github.com/hemingyueyyqx       |
-| Yilin    | https://github.com/songsongyl          |
-| Sidi     | https://github.com/dieatmore           |
-| Tianxin  | https://github.com/ChengTX666          |
-| Dingxian | https://github.com/MikeColeone         |
-| KeFan    | https://github.com/vow717              |
+| Name     | Repos                            |
+| -------- | -------------------------------- |
+| BO       | https://github.com/bwhyman       |
+| Shaolong | https://github.com/vow717        |
+| Jinxin   | https://github.com/LLL-zqvr/     |
+| Qiuyue   | https://github.com/yue24413      |
+| Wenli    | https://github.com/DTBtrigger    |
+| Kaidi    | https://github.com/11hkd         |
+| Mingyue  | https://github.com/hemingyueyyqx |
+| Yilin    | https://github.com/songsongyl    |
+| Sidi     | https://github.com/dieatmore     |
+| Tianxin  | https://github.com/ChengTX666    |
+| Dingxian | https://github.com/MikeColeone   |
+| KeFan    | https://github.com/vow717        |
 
 ### Update
 
