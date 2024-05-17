@@ -50,7 +50,16 @@ document/getElementById()
 
 **需求**
 
-当改变课程名称下拉框值时，从对象数组中找到对应的授课教师姓名，渲染到页面。
+当改变课程名称下拉框值时，从对象数组中找到对应的授课教师姓名，渲染到页面。  
+下拉框项的值为 id 值。
+
+```json
+[
+  { "id": 1, "courseName": "Java", "teacherName": "BO" },
+  { "id": 2, "courseName": "Web", "teacherName": "SUN" },
+  { "id": 3, "courseName": "Python", "teacherName": "ZHANG" }
+]
+```
 
 当 2s 后输入框没有输入时，将输入字母转为大写。(up/down 事件；定时器；定时器取消；封装)
 
